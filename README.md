@@ -1,5 +1,8 @@
 # Course :: Solution Architect 2023
 
+### Resources
+* [Miro board](https://miro.com/app/board/uXjVMYyFixU=/?share_link_id=498202170115)
+
 ### Outline
 - Goals Solution architecture
 	- Practices
