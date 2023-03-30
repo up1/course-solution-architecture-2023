@@ -2,6 +2,7 @@
 
 ### Resources
 * [Miro board](https://miro.com/app/board/uXjVMYyFixU=/?share_link_id=498202170115)
+* [Slide Microservices](https://github.com/up1/course_microservices-3-days)
 
 ### Outline
 - Goals Solution architecture
