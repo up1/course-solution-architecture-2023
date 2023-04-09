@@ -7,6 +7,7 @@
 ### Workshops
 * Domain-Driven Design and [Event Storming](https://www.eventstorming.com/)
 * [C4 Modeling](https://c4model.com/)
+* Distributed Tracing with Grafana stack (Tempo + Grafana)
 * [Component and Contract Testing](https://github.com/up1/course-contract-testing)
 
 ### Outline
