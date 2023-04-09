@@ -4,6 +4,11 @@
 * [Miro board](https://miro.com/app/board/uXjVMYyFixU=/?share_link_id=498202170115)
 * [Slide Microservices](https://github.com/up1/course_microservices-3-days)
 
+### Workshops
+* Domain-Driven Design and [Event Storming](https://www.eventstorming.com/)
+* [C4 Modeling](https://c4model.com/)
+* [Component and Contract Testing](https://github.com/up1/course-contract-testing)
+
 ### Outline
 - Goals Solution architecture
 	- Practices
@@ -46,4 +51,3 @@
 	- Service Oriented Architecture
 	- Microservices
 	- Serverless
-- Workshop
