@@ -7,6 +7,7 @@
 ### Workshops
 * Domain-Driven Design and [Event Storming](https://www.eventstorming.com/)
 * [C4 Modeling](https://c4model.com/)
+* [Workshop with NodeJS](https://github.com/up1/workshop-microservices-2022/tree/main/nodejs)
 * [Event sourcing with Go](https://github.com/up1/demo-event-sourcing-with-golang)
    * Apache Kafka
 * [Distributed Tracing with Grafana stack (Tempo + Grafana)](https://github.com/up1/demo-observability-with-grafana-stack)
